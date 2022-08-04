@@ -70,7 +70,7 @@ global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //scrip
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "Danuwa Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Danuks madumal" //ur sticker watermark author
+global.author = "Danuka madumal" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
