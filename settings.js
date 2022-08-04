@@ -56,7 +56,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['94761034519'] //ur owner number
 global.ownername = "🎸 DANUWA " //ur owner name
-global.ytname = "YT: Nero" //ur yt chanel name
+global.ytname = "YT:DANUWA" //ur yt chanel name
 global.socialm = "GitHub: Nero" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -70,7 +70,7 @@ global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //scrip
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "Danuwa Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "KaDanuks madumal" //ur sticker watermark author
+global.author = "Danuks madumal" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
