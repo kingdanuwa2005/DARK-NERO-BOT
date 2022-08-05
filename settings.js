@@ -69,8 +69,8 @@ global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur web
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Danuwa Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Danuka madumal" //ur sticker watermark author
+global.packname = "Danuwa Bot Stickers\n\n\n\n\n\n\n\n\n\n\n danuwa bot" //ur sticker watermark packname
+global.author = "Danuwa" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
